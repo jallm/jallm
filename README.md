@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jallm, Student of Biology in the Universidade Federal de Pelotas, Rio Grande do Sul, Brazil.
-- 👀 I’m interested in learn how to make games for Science students. 
+- 👀 I’m interested in learn how to make games for students. 
 - 🌱 I’m currently learning the basics of C++ and TeX.
 - 💞️ I’m looking to collaborate on Public Schools of Brazil and the Academic Community.
 - 📫 How to reach me (jallm@protonmail.com)
